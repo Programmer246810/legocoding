@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>H1 Font Example</title>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&display=swap');
+
+    h1 {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+      font-size: clamp(2.2rem, 5vw, 4rem);
+      line-height: 1.1;
+      letter-spacing: -0.04em;
+      color: #1f2937;
+    }
+
+    body {
+      background-color: white;
+      min-height: 100vh;
+      background-image: url("C:/Users/Public/white_website_background1.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+    }
+
+
+    a {
+    color: #63B76C;
+    text-decoration: none;
+  }
+
+    a:hover {
+  background-color: #FFB7C5;
+  color: #63B76C;
+  border: 2px solid #F64A8A;
+  border-radius: 4px;
+  padding: 4px 8px;
+}
+  </style>
+</head>
+<body>
+<h2 style="color: #63B76C;">TREE OF HEAVEN</h2>
+<h3 style="color: #63B76C;">WHAT IS A TREE OF HEAVEN?</h3>
+<h4 style="color: #63B76C;">Tree of heaven (Ailanthus altissima) is a fast-growing, invasive deciduous tree that is widespread in Virginia and is classified as a noxious weed. Native to China and introduced to the United States in the late 1700s as an ornamental street tree, it has since spread across all 43 states and is particularly common throughout Virginia, especially along roadsides, disturbed sites, urban areas, and in regions such as the Blue Ridge Mountains and the I-81 corridor. In Virginia alone, it is estimated to account for more than 67 million cubic feet of live volume, making it a significant ecological and management concern. Tree of heaven is highly competitive, releasing chemicals into the soil that suppress native vegetation, damaging infrastructure with aggressive roots, and serving as a preferred host for the spotted lanternfly, which threatens agricultural and forestry systems. Because of its invasive nature and potential harm, it is illegal to transport or sell without state or federal approval. Effective management typically involves herbicide treatment, mechanical removal, and ongoing monitoring to prevent regrowth and reduce its spread.</h4>
+<h3 style="color: #63B76C;">WHY IS IT A PROBLEM?</h3>
+<h4 style="color: #63B76C;">Tree of heaven aggressively outcompetes native plants, releases chemicals into the soil that suppress surrounding vegetation, and can damage infrastructure with its invasive root system. It also produces a strong, unpleasant odor when leaves or stems are crushed. Its prolific seed production and ability to resprout from roots and stumps make it difficult to eradicate once established.</h4>
+<h3 style="color: #63B76C;">HOW TO IDENTIFY A TREE OF HEAVEN</h3>
+<img src="C:/Users/Public/tree_of_heaven.png" alt="This is a picture of a tree of heaven" width="200">
+<h4 style="color: #63B76C;">Tree of heaven is easy to recognize by its distinct foliage and growth habit. Its leaves are pinnately compound, typically ranging from 1 to 3 feet long, and may contain 9 to 41 leaflets. Each leaflet features glandular teeth at the base, helping to distinguish it from similar species. The twigs are stout and smooth to slightly fuzzy, and when broken, the pith emits a strong odor resembling rancid peanut butter. Young bark is smooth and green, while mature bark becomes brown or gray and develops a characteristic “cantaloupe” pattern. The tree produces abundant winged samaras, similar in appearance to maple seeds, and female trees can generate tens of thousands of seeds. It grows rapidly—sometimes up to 8 feet per year—and often forms dense multi-stem thickets. It also regenerates aggressively from stumps and roots, making effective control especially important.</h4>
+<h3 style="color: #63B76C;">WHEN AND WHERE IS IT LOCATED?</h3>
+<h4 style="color: #63B76C;">Tree of heaven can be found year-round in disturbed, sunny areas, but aerial surveys used for mapping are typically conducted in late winter, from December to January, after leaf drop when the tree’s seed-bearing structures are more visible. It is a common sight along highways, in parks, and in urban streets throughout Virginia. In summary, tree of heaven is a widespread and highly invasive noxious weed in the state. It can be identified by its compound leaves, winged seeds, and the distinct peanut-butter-like odor emitted by the twig pith when broken. Effective control requires a combination of repeated herbicide applications, mechanical removal, and ongoing monitoring. It is also illegal to transport or sell without the proper state or federal approval. For mapping information and local management guidance, Virginia Department of Forestry and VDACS resources are the most reliable sources.</h4>
+<h3 style="color: #63B76C;">WAYS TO REMOVE</h3>
+<h4 style="color: #63B76C;">Effective control of tree of heaven requires a sustained and targeted approach. For smaller trees, herbicide treatment is often applied after cutting, while larger trees may be treated with trunk incisions and herbicide while still standing. Mechanical removal is also used, but it must be followed by herbicide application to prevent regrowth from root suckers and remaining root systems. Ongoing monitoring is essential, with treated stumps and sites regularly inspected by agencies and volunteer groups to identify regrowth and new seedlings. Biological control research is still in progress, but it is not yet a standalone solution. Prevention is critical: tree of heaven should not be transported or sold without the required authorization. Most importantly, cutting alone is not effective, as repeated treatments are typically necessary to eliminate the root system and prevent reinfestation.</h4>
+</body>
+</html>
